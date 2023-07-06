@@ -1,0 +1,8 @@
+print("Adição: ", 5 + 5)
+print("Subtração: ", 5 - 5)
+print("Multiplicação: ", 5 * 5)
+print("Dvisão: ", 5 / 6)
+print("Divisão com aproximação: ", 5 // 5)
+print("modulo: ", 5 % 2)
+print("Potencia: ", 5 ** 5)
+print("Preferência de calculo: ", 5 * (5 + 2))

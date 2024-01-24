@@ -1,0 +1,19 @@
+# Para versionar seus projetos, criando um ambiente virtual, necessita os seguintes comandos:
+
+- python -m venv venv
+-- criação da pasta venv
+
+- source venv/Scripts/activate
+-- ativa o ambiente virtual
+
+- deactivate
+-- desativa o ambiente virtual
+
+
+# Para criar arquivo requirements.txt, onde estatá o registro de versões das libs instaladas permitindo o versionamento, necessita os requintes comandos: 
+
+- pip freeze > requirements.txt
+-- cria arquivo requirements.txt
+
+- pip install -r requirements.txt
+-- instala as libs do requirements.txt

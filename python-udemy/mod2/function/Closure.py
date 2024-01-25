@@ -4,6 +4,6 @@ def criarSaudacao(saudacao):
     return saudar
 
 
-saudacao = criarSaudacao('bom dia')
+saudacao2 = criarSaudacao('bom dia')
 
-print(saudacao('Luiz'))
+print(saudacao2('Luiz'))

@@ -1,4 +1,5 @@
-def generator(n=0):
+def generator(n):
+    print(n)
     yield 1
     print('continuando')
     yield 2

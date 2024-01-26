@@ -1,0 +1,2 @@
+Error: qualquer coisa (LogPrintMixin)
+Success: Que legal (LogPrintMixin)
